@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alhacky
 - 👀 I’m interested in infosec
-- 🌱 I’m currently learning kali linux
-- 💞️ I’m looking to collaborate on open-source intelligence projects
+- 🌱 I’m currently learning Parrot OS
+- 💞️ I’m looking to collaborate on biohacking projects
 - 📫 How to reach me alhacky@protonmail.com
 
 <!---
